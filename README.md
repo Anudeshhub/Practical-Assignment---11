@@ -50,8 +50,8 @@
 <br  />condition: new in None with average price $32584.99 (Type: None)
 <br  />cylinders: 12 cylinders in 2015 with average price $50000.00 (Type: SUV)
 <br  />type: pickup in None with average price $33227.20 (Type: None)</p>
-![](images/car_prices_by_color_of_the_car.jpeg)
-<br  /><img src="images/car_prices_by_color_of_the_car.jpeg" alt="images/car_prices_by_color_of_the_car" /></p>
+<p><img src="images/car_prices_by_color_of_the_car.jpeg" alt="" /></p>
+
 
 <p>Price Trends Over Time:
 <p>images/car_prices_by_condition_of_the_car.jpeg
