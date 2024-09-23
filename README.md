@@ -49,6 +49,7 @@
 <br  />condition: new in None with average price $32584.99 (Type: None)
 <br  />cylinders: 12 cylinders in 2015 with average price $50000.00 (Type: SUV)
 <br  />type: pickup in None with average price $33227.20 (Type: None)</p>
+<br  /><img src="images/Car Prices by Color of the car.png" alt="images/Car Prices by color of the Car" /></p>
 <p>Price Trends Over Time:
 <br  />2010-2015 to 2016-2020: The increase in average price from $17,144.16 to $25,360.99 indicates a rising trend in the value of the items during this period, suggesting either improvements in quality, increased demand, or other market factors driving prices higher.</p>
 <p>2016-2020 to 2021-2023: The dramatic leap to $228,298.09 in the most recent period is noteworthy. This could imply significant changes in the market, such as:</p>
@@ -86,8 +87,8 @@
 <p><strong>Conduct Exploratory Data Analysis</strong></p>
 <pre><code>   Visulatizations:
 
-    ![images/Top_5_manufacturers](images/Top_5_manufacturers.png)
-    ![images/Mean Price for top 5 manufacturers](images/Mean Price for top 5 manufacturers.png)
+ <br  /><img src="images/Top_5_manufacturer.png" alt="images/Top_5_manufacturers" /></p>
+<br  /><img src="images/Mean Price for top 5 manufacturer.png" alt="images/Mean Price for top 5 manufacturers" /></p>
 
 
    Statistical analysis :  Calculate mean, median, mode, standard deviation, etc
