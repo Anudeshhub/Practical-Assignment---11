@@ -30,7 +30,7 @@
 <br  /><strong>Year</strong>                  : Year of the car
 <br  /><strong>Price</strong>                 : Value of the car</p>
 <p><strong>Data Understanding <em></em>
-<br  /></strong> Read vehicles.csv data downloaded from kaggle</p>
+<br  /></strong> Read vehicles.csv data downloaded from kaggle. Used vehicles_short.csv for this exercise</p>
 <p><strong>Dependent Variable</strong> is the Price of the car
 <br  /><strong>Independent Variables</strong> are Key Drivers i.e columns used to train and test the model</p>
 <p>*<em>Data Understanding </em>*
@@ -49,9 +49,12 @@
 <br  />condition: new in None with average price $32584.99 (Type: None)
 <br  />cylinders: 12 cylinders in 2015 with average price $50000.00 (Type: SUV)
 <br  />type: pickup in None with average price $33227.20 (Type: None)</p>
-<br  /><img src="images/Car Prices by Color of the car.png" alt="images/Car Prices by color of the Car" /></p>
+
+<p>images/Car_Prices_by_Color_of_the_car.png
+<br  /><img src="images/Car_Prices_by_Color_of_the_car.png" alt="images/Car_Prices_by_Color_of_the_car" /></p>
+
 <p>Price Trends Over Time:
-<p>images/Car Prices by Conditionof the car.png
+<p>images/Car Prices by Conditiono f the car.png
 <br  /><img src="images/Car_Prices_by_Condition_of_the_car.png" alt="images/Car_Prices_by_Condition_of_the_car" /></p>
 
 <br  />2010-2015 to 2016-2020: The increase in average price from $17,144.16 to $25,360.99 indicates a rising trend in the value of the items during this period, suggesting either improvements in quality, increased demand, or other market factors driving prices higher.</p>
