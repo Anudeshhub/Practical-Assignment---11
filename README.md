@@ -54,7 +54,7 @@
 <br  /><img src="images/car_prices_by_color_of_the_car.png" alt="images/car_prices_by_color_of_the_car" /></p>
 
 <p>Price Trends Over Time:
-<p>images/Car Prices by Conditiono f the car.png
+<p>images/car_prices_by_condition_of_the_car.png
 <br  /><img src="images/car_prices_by_condition_of_the_car.png" alt="images/car_prices_by_condition_of_the_car" /></p>
 
 <br  />2010-2015 to 2016-2020: The increase in average price from $17,144.16 to $25,360.99 indicates a rising trend in the value of the items during this period, suggesting either improvements in quality, increased demand, or other market factors driving prices higher.</p>
