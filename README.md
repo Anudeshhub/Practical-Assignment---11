@@ -9,6 +9,7 @@
 <br  />As a result of our analysis, recommendation is provided to the client (a used car dealership), as to what consumers value in a used car.</p>
 <p><strong>CRISP-DM Framework</strong>
 <br  />I am using CRISP-DM Framework to work through the model and develop a model</p>
+<p><img src="images/crisp.jpeg" alt="" /></p>
 <p><strong>Business Understanding</strong>
 <br  />The used car market is competitive, and understanding pricing dynamics is crucial for businesses to remain profitable.
 <br  />Consumer preferences can vary widely based on demographics, regional differences, and current market trends.</p>
@@ -92,7 +93,7 @@
 <p><strong>Conduct Exploratory Data Analysis</strong></p>
 <pre><code>   Visulatizations:
 
- <br  /><img src="images/Top_5_manufacturer.png" alt="images/Top_5_manufacturers" /></p>
+<br  /><img src="images/Top_5_manufacturer.png" alt="images/Top_5_manufacturers" /></p>
 <br  /><img src="images/Mean Price for top 5 manufacturer.png" alt="images/Mean Price for top 5 manufacturers" /></p>
 
 
